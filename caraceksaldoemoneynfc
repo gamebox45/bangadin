@@ -6,9 +6,9 @@
     "link_new_app": "null",
     "admob": [
       {
-        "banner": "",
-        "inter": "",
-        "native": ""
+        "banner": "ca-app-pub-4667278432470168/4044265836",
+        "inter": "ca-app-pub-4667278432470168/2392272818",
+        "native": "ca-app-pub-4667278432470168/9705401023"
       }
     ],
     "unity": [
