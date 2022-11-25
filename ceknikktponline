@@ -1,0 +1,22 @@
+{
+    "pc": "ceknikktponline.apps",
+    "url_blogger": "https://ceknikktponline.blogspot.com",
+    "url_privacy_policy": "",
+    "interval_inter": 3,
+    "link_new_app": "null",
+    "admob": [
+      {
+        "banner": "ca-app-pub-4667278432470168/8766109474",
+        "inter": "ca-app-pub-4667278432470168/2297684298",
+        "native": "ca-app-pub-4667278432470168/7453027802"
+      }
+    ],
+    "unity": [
+      {
+        "mode_tes": true,
+        "idapp": "",
+        "banner": "Banner_Android",
+        "inter": "Interstitial_Android"
+      }
+    ]
+  }
