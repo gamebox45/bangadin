@@ -1,0 +1,22 @@
+{
+    "pc": "bukusakupramukalengkap.apps",
+    "url_blogger": "https://bukusakupramukalengkap.blogspot.com",
+    "url_privacy_policy": "",
+    "interval_inter": 3,
+    "link_new_app": "null",
+    "admob": [
+      {
+        "banner": "ca-app-pub-4667278432470168/7079237682",
+        "inter": "ca-app-pub-4667278432470168/5429499699",
+        "native": "ca-app-pub-4667278432470168/4116418021"
+      }
+    ],
+    "unity": [
+      {
+        "mode_tes": true,
+        "idapp": "",
+        "banner": "Banner_Android",
+        "inter": "Interstitial_Android"
+      }
+    ]
+  }
