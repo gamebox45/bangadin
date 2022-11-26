@@ -6,15 +6,15 @@
     "link_new_app": "null",
     "admob": [
       {
-        "banner": "",
-        "inter": "",
-        "native": ""
+        "banner": "ca-app-pub-8965953422694885/1328385427",
+        "inter": "ca-app-pub-8965953422694885/3127718108",
+        "native": "ca-app-pub-8965953422694885/7702222080"
       }
     ],
     "unity": [
       {
         "mode_tes": true,
-        "idapp": "",
+        "idapp": "5036561",
         "banner": "Banner_Android",
         "inter": "Interstitial_Android"
       }
